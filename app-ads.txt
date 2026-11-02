@@ -1,9 +1,7 @@
 google.com, pub-5728511173081244, DIRECT, f08c47fec0942fa0
 google.com, pub-5470583791053938, DIRECT, f08c47fec0942fa0
 google.com, pub-5728511173081244, DIRECT, f08c47fec0942fa0
-
 google.com, pub-3526336376814636, DIRECT, f08c47fec0942fa0
-
 MANAGERDOMAIN=tradplusad.com
 tradplusad.com,39099709494c6127,DIRECT
 openx.com, 561436793, RESELLER, 6a698e2ec38604c6
